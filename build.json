@@ -1,0 +1,11 @@
+{
+	"manifest" : 
+	{ 
+		"minSdkVersion" : 21,
+		"targetSdkVersion" : 29,
+		"debuggable" : false,
+		"removePermissions" : "WRITE_EXTERNAL_STORAGE, ACCESS_WIFI_STATE",
+		"homeScreen":false,
+		"pathPattern":".*\\.mp3,.*\\.wav,.*\\.m4a"
+	}
+}
